@@ -1,0 +1,24 @@
+#BugReport- M03_Programming 9.1
+
+** Preconditions **
+
+- Line (5)
+
+**Steps to Reproduce**
+
+- Return the following list  ['Harry', 'Ron', 'Hermione'].
+
+
+**Expected Results**
+
+-  ['Harry', 'Ron', 'Hermione']
+
+**Actual Results**
+
+- <function good at 0x000001EA396E3E20>
+
+
+**FIX**
+
+- print (good())
+
